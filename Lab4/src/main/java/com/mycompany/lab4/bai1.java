@@ -11,6 +11,6 @@ package com.mycompany.lab4;
 public class bai1 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("toi ten la pham minh hoang");
     }
 }
